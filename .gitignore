@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-/UnityFirebase Database/Assets/Firebase/
+/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-9_3_0.bundle
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

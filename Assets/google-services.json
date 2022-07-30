@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995435899215",
+    "firebase_url": "https://my-unity-database-default-rtdb.firebaseio.com",
+    "project_id": "my-unity-database",
+    "storage_bucket": "my-unity-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995435899215:android:28438cb7cc83b8d682fd3a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UnityFirebaseDatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995435899215-st97vb8ianf2nrt1ls47lrj1ct8jq4bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFEuORP21Oz4MeppBwtkyJR5GncJQfyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995435899215-st97vb8ianf2nrt1ls47lrj1ct8jq4bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995435899215-k7vh9c4qtadhkjobnu77qvv3vkoal884.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.UnityFirebase-Database"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
